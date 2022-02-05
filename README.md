@@ -1,5 +1,5 @@
-# HOLA-MUNDO
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio
 
 Autor: David Daniel Pat
 Fecha: 05/02/22
